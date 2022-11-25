@@ -21,10 +21,10 @@ timezone: Asia/Shanghai
 
 title: Life Of Way And Zsy                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 专注于我们的生活   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A life recorder of way and zsy, luck always comes to us.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
