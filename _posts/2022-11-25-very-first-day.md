@@ -9,6 +9,6 @@ render_with_liquid: false
 
 # Life Of way And zsy
 
-<img src="/20221103_160051042_iOS.jpg" alt="20221103_160051042_iOS" style="zoom:33%;" />
+<img src="/assets/images/20221103_160051042_iOS.jpg" alt="20221103_160051042_iOS" style="zoom:33%;" />
 
 This is how we live, this is how we love.
