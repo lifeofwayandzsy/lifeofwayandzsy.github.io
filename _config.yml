@@ -19,9 +19,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Life Of Way And Zsy                          # the main title
+title: Way And Zsy                          # the main title
 
-tagline: 专注于我们的生活   # it will display as the sub-title
+tagline: Life Of Way And Zsy   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A life recorder of way and zsy, luck always comes to us.
