@@ -1,0 +1,12 @@
+---
+title: Life Is Amazing
+author: way and zsy
+date: 2022-11-25 08:00:00 +0800
+categories: [Blogging, Life]
+tages: [writing]
+render_with_liquid: false
+---
+
+# Life Of way And zsy
+
+This is how we live, this is how we love.
