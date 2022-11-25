@@ -1,6 +1,6 @@
 ---
 title: Life Is Amazing
-author: way and zsy
+author: wayandzsy
 date: 2022-11-25 08:00:00 +0800
 categories: [Blogging, Life]
 tages: [writing]
